@@ -24,6 +24,6 @@ https://public.tableau.com/views/IFT_533_Final_Project_Olympic_History_by_Number
 
 # Contact
 
-For any queries or suggestions, feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/raja-ranjith-kumar-asileti-2375a514a/
+For any queries or discussions/suggestions, feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/raja-ranjith-kumar-asileti-2375a514a/
 
 
