@@ -6,6 +6,8 @@ This project implements the Medallion Architecture using Databricks, structuring
 
 ## Architecture Breakdown
 
+![alt text](<Screenshot 2025-03-25 at 3.44.42 PM.JPG>)
+
 ### Bronze Layer🥉(Raw Data Ingestion)
 
 The Bronze layer consists of raw data ingested from multiple sources, including transactional databases, APIs, and streaming data sources. This layer stores unprocessed data in its original format, ensuring data availability for further processing.
